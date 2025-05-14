@@ -2,16 +2,16 @@ import 'package:flutter/material.dart';
 
 class Config {
   // App Name
-  static const appName = 'SADCPFNow';
+  static const appName = 'SADC PF Now';
 
   // Onesignal App ID
-  static const String onesignalAppID = 'd4c87597-53b1-46c2*********';
+  static const String onesignalAppID = '1497f463-0925-45db-a4d6-240a5e3e83c1';
 
   //iOS App ID (Ignore this for Android)
   static const iOSAppID = '000000';
 
   // App theme color
-  static const Color appThemeColor = Color(0xFFf8bd7f);
+  static const Color appThemeColor = Color(0xFF4CAF50);
 
   // App Icons
   static const String appIcon = 'assets/images/icon.png';

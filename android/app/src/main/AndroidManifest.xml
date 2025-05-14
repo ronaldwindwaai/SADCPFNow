@@ -26,8 +26,8 @@
     </queries>
 
     <application
-        android:label="NewsFreak"
-        android:icon="@mipmap/ic_launcher"
+        android:label="SADC PF Now"
+        android:icon="@mipmap/launcher_icon"
         android:usesCleartextTraffic="true">
         <activity
             android:name=".MainActivity"
@@ -61,7 +61,7 @@
                 <!-- Accepts URIs that begin with https://YOUR_HOST -->
                 <data
                     android:scheme="https"
-                    android:host="newsfreak.mrb-lab.com" />
+                    android:host="now.sadcpf.org" />
             </intent-filter>
 
 
