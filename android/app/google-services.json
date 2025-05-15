@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366382366319",
+    "project_id": "sadcpfnow",
+    "storage_bucket": "sadcpfnow.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366382366319:android:da6e81dae6c58ef0b5579a",
+        "android_client_info": {
+          "package_name": "org.sadcpf.now"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClb9fVxo6KG9uINj09h-Pn1z9QOCt01mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
