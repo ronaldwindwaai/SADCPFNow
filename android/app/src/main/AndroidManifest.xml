@@ -27,7 +27,7 @@
 
     <application
         android:label="SADC PF Now"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/launcher_icon"
         android:usesCleartextTraffic="true">
         <activity
             android:name=".MainActivity"
