@@ -1,4 +1,4 @@
-# 🇸🇿 SADC PF Now – Official Application of the SADC Parliamentary Forum
+# SADC PF Now – Official Application of the SADC Parliamentary Forum
 
 A mobile-first application built with **Flutter** and **Bloc architecture**, designed to streamline access to **news, events, plenary sessions, committee information, and internal collaboration** for Members of Parliament, Speakers, and Secretariat staff across the 15 SADC member states.
 
